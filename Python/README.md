@@ -23,6 +23,15 @@ This folder is organized into separate subfolders for each learning example. Eac
 - `fileIO/`
 - `exceptions/`
 - `dataStructures/`
+- `inheritance/`
+- `recursion/`
+- `comprehensions/`
+- `modules/`
+- `generators/`
+- `functions/`
+- `fileIO/`
+- `exceptions/`
+- `dataStructures/`
 
 ## Daily workflow
 
