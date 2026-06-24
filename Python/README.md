@@ -15,6 +15,7 @@ This folder is organized into separate subfolders for each learning example. Eac
 - `miniCalculator/`
 - `pattern/`
 - `primeNumber/`
+- `class/`
 
 ## Daily workflow
 
