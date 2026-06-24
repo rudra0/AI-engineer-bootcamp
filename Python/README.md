@@ -28,6 +28,7 @@ This folder is organized into separate subfolders for each learning example. Eac
 - `comprehensions/`
 - `modules/`
 - `generators/`
+- `student_management/`
 - `functions/`
 - `fileIO/`
 - `exceptions/`

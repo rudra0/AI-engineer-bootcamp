@@ -1,0 +1,29 @@
+[
+  {
+    "student_id": 1,
+    "name": "Alice Johnson",
+    "marks": 95.0,
+    "age": 20,
+    "grade": "A",
+    "email": "alice.johnson@example.com",
+    "department": "Computer Science"
+  },
+  {
+    "student_id": 2,
+    "name": "Bob Singh",
+    "marks": 88.5,
+    "age": 22,
+    "grade": "B+",
+    "email": "bob.singh@example.com",
+    "department": "Information Technology"
+  },
+  {
+    "student_id": 3,
+    "name": "Carla Mendes",
+    "marks": 91.0,
+    "age": 19,
+    "grade": "A-",
+    "email": "carla.mendes@example.com",
+    "department": "Data Science"
+  }
+]
