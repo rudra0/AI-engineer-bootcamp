@@ -19,6 +19,10 @@ This folder is organized into separate subfolders for each learning example. Eac
 - `bankingSystemUsingFunction/`
 - `passwordGenerator/`
 - `passwordStrengthChecker/`
+- `functions/`
+- `fileIO/`
+- `exceptions/`
+- `dataStructures/`
 
 ## Daily workflow
 
