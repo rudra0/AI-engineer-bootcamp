@@ -16,6 +16,9 @@ This folder is organized into separate subfolders for each learning example. Eac
 - `pattern/`
 - `primeNumber/`
 - `class/`
+- `bankingSystemUsingFunction/`
+- `passwordGenerator/`
+- `passwordStrengthChecker/`
 
 ## Daily workflow
 
