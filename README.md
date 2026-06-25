@@ -16,3 +16,11 @@ Folders:
 - AI-Agents
 - MLOps
 - System-Design
+
+Numpy-Pandas includes:
+- `Numpy-Pandas/numpy_basics/` — NumPy array creation, shapes, dtype, and reductions
+- `Numpy-Pandas/numpy_array_ops/` — arithmetic, broadcasting, slicing, and stacking examples
+- `Numpy-Pandas/pandas_basics/` — DataFrame creation, selection, and summary operations
+- `Numpy-Pandas/pandas_groupby/` — grouping and aggregation examples
+- `Numpy-Pandas/problems/` — practice problem descriptions for NumPy and pandas
+- `Numpy-Pandas/solutions/` — runnable solution scripts for practice problems
